@@ -4,7 +4,7 @@ This project is a simple, responsive HTML and CSS template for displaying a rest
 
 ## Live Preview
 
-Check out the live version of this project: view live menu
+Check out the live version of this project: [view live menu]https://ceejay332.github.io/Restaurant---Company-Name-1/
 
 ## Features
 
